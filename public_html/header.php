@@ -54,7 +54,7 @@
 									<li class="divider"></li>
 									<li><a href="http://themesquality.com/templates/autochoice/theme8">Home Page 8</a></li>
 								</ul>-->
-							
+
                            <li><a href="about.php">ABOUT US</a></li>
                                 <!--<ul class="dropdown-menu">
                                     <li class="divider-top"></li>
@@ -70,7 +70,17 @@
                                     <li class="divider"></li>
                                     <li><a href="coming-soon">Coming Soon</a></li>
                                 </ul>-->
-                           
+
+                            <li >
+                                <a href="https://www.ezenflightacademy.com/" >FLIGHT ACADEMY </a>
+                                <!-- <ul class="dropdown-menu">
+                                    <li class="divider-top"></li>
+                                    <li><a href="services">Services </a></li>
+                                    <li class="divider"></li>
+                                    <li><a href="services">Services </a></li>
+                                </ul> -->
+                            </li>
+
                             <li >
                                 <a href="services.php" >SERVICES </a>
                                 <!-- <ul class="dropdown-menu">
@@ -80,7 +90,7 @@
                                     <li><a href="services">Services </a></li>
                                 </ul> -->
                             </li>
-							
+
                             <li class="dropdown">
                                <li><a href="gallery.php">GALLERY</a></li>
                                <!-- <ul class="dropdown-menu">
@@ -91,7 +101,7 @@
                                     <li class="divider"></li>
                                     <li><a href="car-details">Car Details</a></li>
                                 </ul>-->
-                         
+
                             <!--<li class="dropdown">
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">ACCESSORIES <span class="caret-drop"></span></a>
                                 <ul class="dropdown-menu">
