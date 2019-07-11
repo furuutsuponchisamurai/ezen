@@ -619,6 +619,9 @@
 					<div class="section">
 						<div class="row">
 							<div class="col-md-6">
+								<div class="auto-front-img"><img src="img/images/autos/atr_sale.png" alt=""></div>
+							</div>
+							<div class="col-md-6">
 								<div class="about-front">
 									<h3 id="gold">ATR 72-500 Aircraft for Sale</h3>
 									<hr class="short" >
@@ -629,8 +632,26 @@
 									</p>
 								</div>
 							</div>
+
+						</div>
+					</div>
+				</div>
+				<div class="main">
+					<div class="section">
+						<div class="row">
 							<div class="col-md-6">
-								<div class="auto-front-img"><img src="img/images/autos/atr_sale.png" alt=""></div>
+								<div class="about-front">
+									<h3 id="gold">Current Leases</h3>
+									<hr class="short">
+									<p id="white">Ezen Aviation Private Limited currently has a PT6 engine on lease through Flight Craft Trading, Canada to Wasaya Airways, Canada.</p>
+									<p id="white">For more information about engine leasing from Ezen Aviation, click the "Inquire" button below or call +61 4 5187 2512.</p>
+									<p style="text-align:center;color:red;">
+										<a href="mailto:ncreddy@ezenaviation.com"><button style="background-color:gold;border:2px solid red;color:black;border-radius:2px;"> Inquire</button></a>
+									</p>
+								</div>
+							</div>
+							<div class="col-md-6">
+								<div class="auto-front-img"><img src="img/wanyama.png" alt=""></div>
 							</div>
 						</div>
 					</div>
